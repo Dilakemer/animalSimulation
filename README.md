@@ -17,7 +17,7 @@ Simülasyonda:
 
 ## Dosyalar
 
-### 1. `simulasyon.py` (Ana simülasyon dosyası)
+### 1. `main.py` (Ana simülasyon dosyası)
 
 - Simülasyon döngüsünü çalıştırır.
 - Popülasyon oluşturma, hayvan hareketleri, avlanma, üreme, aşırı popülasyon kontrolü gibi mekanikleri içerir.
