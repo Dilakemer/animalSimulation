@@ -50,6 +50,9 @@ Simülasyonda:
    - Popülasyonun zaman içindeki değişimini gösteren grafikler çizilir.
 
 ---
+![Grafikler](images/grafikler.png)
+![CLI ÇIKTISI](images/cliçıktısı.png)
+
 
 ## Kullanım
 
