@@ -51,7 +51,7 @@ Simülasyonda:
 
 ---
 ![Grafikler](images/grafikler.png)
-![CLI ÇIKTISI](images/cliçıktısı.png)
+![CLI ÇIKTISI](images/cli çıktısı.png)
 
 
 ## Kullanım
